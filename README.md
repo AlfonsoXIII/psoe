@@ -1,2 +1,3 @@
-# psoe
-Proyecto de inveStigacion de Ondas Electromagnéticas
+# PSOE
+
+Proyecto de inveStigacion de Ondas Electromagnéticas, para la asignatura de INT (UPC).
